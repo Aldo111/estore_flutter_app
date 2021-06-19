@@ -1,16 +1,30 @@
-# new_app
+# E-Store Mobile App Home Screen
 
-A new Flutter project.
+This Flutter project recreates an electronics store home screen mockup. The mockup was created by [@nasyiya.design](https://www.instagram.com/p/CPuiTJtrm7w/) on instagram.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+I saw the mockup on instagram and thought it would be interesting to recreate it in Flutter as my first real stab at making something fully in it. 
 
-A few resources to get you started if this is your first Flutter project:
+## What it looks like
+<img src="https://i.imgur.com/3SCILr2.png" width=320>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Compared to the mock
+<img src="https://i.imgur.com/pEt9exT.png" width=256>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The mock is on the left.
+
+
+## Running this project
+
+`flutter run` in the project directory.
+
+## Project Structure
+The files specifically added/edited for the project are:
+
+- assets
+    - controller.png
+    - headphones.png
+    - headphones2.png
+- lib/widgets
+    - ...All the widgets used in the view
+- lib/main.dart
